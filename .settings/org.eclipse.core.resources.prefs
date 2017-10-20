@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/pages/login.jsp=UTF-8
+encoding//WebRoot/WEB-INF/pages/register.jsp=UTF-8
+encoding//src/me/gacl/web/UI/RegisterUIServlet.java=UTF-8
+encoding//src/me/gacl/web/controller/LoginServlet.java=UTF-8
+encoding//src/me/gacl/web/controller/RegisterServlet.java=UTF-8
+encoding//src/me/gacl/web/formbean/RegisterFormBean.java=UTF-8
